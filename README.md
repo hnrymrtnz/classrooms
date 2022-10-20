@@ -27,3 +27,7 @@
 <p>
   Here is a UML diagram with all the classes that were created, showing the relation and connection between them. Each class contains variables and/or methods.
 </p>
+
+![UML class (1)](https://user-images.githubusercontent.com/112213173/197008315-58032bf9-9705-428f-9a64-c3298dba2583.jpeg)
+
+
