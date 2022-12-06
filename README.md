@@ -1,11 +1,14 @@
 <h1>
-   Classrooms Project 
+   Objected-Oriented Programming and Data Structure Projects
 </h1>
 
 <p>
-  The purpose of this program is to generate classrooms with a room number, a teacher, and student objects, based on user input.
+  A compilation of the projects I have worked on for in-class assignments that have taught me how to utilize object-oriented programming and data structures.
 </p>
 
+<h1>
+   Classroom Project
+</h1>
 <h2>
   What did I learn? 🤔
 </h2>
